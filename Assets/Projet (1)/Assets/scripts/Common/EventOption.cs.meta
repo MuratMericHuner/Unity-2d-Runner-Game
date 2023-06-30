@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 558e030b0619f344f99459df14106736
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buttonMenu: {instanceID: 0}
+  - MenuPrincipal: {instanceID: 0}
+  - buttonControl1: {instanceID: 0}
+  - buttonControl2: {instanceID: 0}
+  - Option: {instanceID: 0}
+  - selectedButtonSprite: {fileID: -1924510269050756126, guid: 0a64b3faad20d7f49aa605edff512c1e,
+      type: 3}
+  - resolutionDropdown: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
